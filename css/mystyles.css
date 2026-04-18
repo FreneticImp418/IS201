@@ -1,0 +1,32 @@
+body {
+  background-color: #acd0f4;
+  font-family:'Courier New', Courier, monospace, sans-serif;
+  color: black                 
+}
+
+#header {
+  background-color: #b9cb51;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+#instructions {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: white;
+    overflow: hidden;
+}
+
+.tableauPlaceholder {
+  max-width: 100%;   
+}
+
+#footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #e38a3c;
+  color:black;
+}
+
